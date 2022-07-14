@@ -1,8 +1,5 @@
 # **Coffee_Machine_Python**
-## **For a professional coffee machine with its multiplicity of products and its many configuration possibilities, 
-user interface languages and maintenance options to be operated easily a full graphical, 
-touch based user interface is necessary. This results in a complex control system, 
-which gets even more complex through the many dependencies from the hardware and especially from the mechanics of the machine.**
+### **For a professional coffee machine with its multiplicity of products and its many configuration possibilities, user interface languages and maintenance options to be operated easily a full graphical, touch based user interface is necessary. This results in a complex control system, which gets even more complex through the many dependencies from the hardware and especially from the mechanics of the machine.**
 # Object-Oriented Programming | The Coffee Machine Project (revisited)
 ### This is an Object-Oriented-Programming (OOP) version of the "Coffee Machine Project" from Dr. Angela Yu's Python Bootcamp, from the London App Brewery. You can find the other version (non-OOP) in this author's other repository.
 
