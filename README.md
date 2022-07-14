@@ -15,4 +15,5 @@
 - [x] Process coins.
 - [x] Check if transaction is successful.
 - [x] Make coffee.
+![Coffee_Machine](https://user-images.githubusercontent.com/93161576/178911659-efd5a16e-9534-4c73-914a-8524abcd1a36.jpg)
 
